@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<open_files>
+		<docitem>
+			<path>..\..\..\..\..\Program Files (x86)\Xinox Software\JCreatorV5LE\start.zip</path>
+			<source>false</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\Program Files (x86)\Xinox Software\JCreatorV5LE\manual.zip</path>
+			<source>false</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>manager.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
